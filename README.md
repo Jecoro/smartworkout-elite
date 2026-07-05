@@ -2,6 +2,14 @@
 
 App para planificar rutinas con gomas elásticas (SmartWorkout Elite) y calcular tu déficit calórico. Es una **PWA**: funciona en el navegador, se instala en Android como una app (con icono y modo offline) y no necesita backend — todo se guarda en tu móvil.
 
+## 🌐 App publicada
+
+**https://jecoro.github.io/smartworkout-elite/** (GitHub Pages, repo `Jecoro/smartworkout-elite`)
+
+- **Móvil:** abre la URL en Chrome → menú ⋮ → «Añadir a pantalla de inicio» (o escanea `qr-app.png`).
+- **PC:** abre la URL en Chrome/Edge → icono de instalar (⊕/monitor con flecha) en la barra de direcciones.
+- **Actualizar la app:** edita los archivos y `git push` — Pages se redespliega solo en ~1 min.
+
 ## Qué hace
 
 - Calcula tu **metabolismo basal** (Mifflin-St Jeor), **mantenimiento** y **objetivo calórico** en déficit (suave/medio/agresivo), con reparto de macros y ritmo de pérdida estimado.
